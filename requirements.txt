@@ -1,0 +1,7 @@
+streamlit
+pickle
+pandas
+matplotlib
+wordcloud
+plotly
+collection
